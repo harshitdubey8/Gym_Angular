@@ -1,0 +1,23 @@
+.home-container {
+  background-image: url("https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?cs=srgb&dl=pexels-victor-freitas-841130.jpg&fm=jpg");
+  height: 70vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding-top: 200px;
+  padding-left: 50px;
+}
+
+.hero-title {
+  color: white;
+  font-size: 50px;
+  font-style: italic;
+  background-color: transparent;
+}
+
+.hero-subtitle {
+  color: white;
+  font-size: 20px;
+  background-color: transparent;
+}

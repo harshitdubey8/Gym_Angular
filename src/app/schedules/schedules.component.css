@@ -1,0 +1,15 @@
+.schedules-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 56px;
+}
+
+th {
+  background-color: #e1193e;
+  color: white;
+}
+
+.hero-title {
+  padding-bottom: 30px;
+}

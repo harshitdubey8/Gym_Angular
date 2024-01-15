@@ -1,0 +1,31 @@
+.feedback-page {
+  background-color: white;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.hero-title {
+  color: black;
+}
+
+.form-group {
+  width: 500px;
+  background-color: white;
+}
+
+label {
+  background-color: white;
+}
+
+form {
+  background-color: white;
+}
+
+.btn {
+  width: 200px;
+  padding: 10px;
+}

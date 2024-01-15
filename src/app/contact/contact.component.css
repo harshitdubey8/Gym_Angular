@@ -1,0 +1,11 @@
+h3 {
+  color: white;
+}
+
+.contact-screen {
+  padding: 56px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

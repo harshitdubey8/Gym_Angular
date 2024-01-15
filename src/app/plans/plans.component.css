@@ -1,0 +1,47 @@
+.card-container {
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  align-items: center;
+}
+
+.plans-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 56px;
+}
+
+.plan-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  width: 100%;
+}
+
+h2,
+h1,
+ul,
+h3,
+li {
+  background-color: transparent;
+}
+
+ul {
+  padding-top: 10px;
+}
+
+.btn {
+  width: 200px;
+  padding: 10px;
+}
+
+h1 {
+  color: #e1193e;
+  font-weight: 700;
+}
